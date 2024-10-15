@@ -1,8 +1,11 @@
 # Xcrypto
 
 Xcrypto is a cryptocurrency dashboard built using the **MERN** stack, offering real-time data visualization and management for crypto assets. It leverages **Redux** for state management and **Chakra UI** for a modern, responsive interface.
+![1](https://github.com/user-attachments/assets/78b5195d-4b86-4174-b5a2-021a6090b606)
 
-![Xcrypto Preview](./assets/preview.png)
+![2](https://github.com/user-attachments/assets/308c8501-a2cd-41b1-a625-a6476756608d)
+![3](https://github.com/user-attachments/assets/60fecb68-e56a-4cf7-a193-a23302089d0f)
+
 
 ## Features
 
